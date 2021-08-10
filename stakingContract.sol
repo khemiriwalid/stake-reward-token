@@ -5,7 +5,7 @@ pragma solidity ^0.8.0;
 import "github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/IERC20.sol";
 
 
-contract StakeToken {
+contract StakingContract {
     
     string public name = "Staking";
     
